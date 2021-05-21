@@ -3,7 +3,7 @@ Fork of https://github.com/nodef/extra-ffmpeg extra-ffmpeg library, with removed
 Decode, encode, transcode, mux, demux, stream, filter, and play media through machine (via ["ffmpeg"]).
 
 ```javascript
-const ffmpeg = require('extra-ffmpeg');
+const ffmpeg = require('ffmpeg-com');
 // ffmpeg.sync(<options>): stdout when done
 // ffmpeg(<options>)
 // -> Promise {stdout, stderr} when done
