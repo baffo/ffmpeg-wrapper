@@ -1,36 +1,17 @@
 {
-  "name": "extra-ffmpeg",
-  "version": "4.0.6",
-  "description": "Decode, encode, transcode, mux, demux, stream, filter, and play media through machine (via \"ffmpeg\").",
+  "name": "ffmpeg-wrapper",
+  "version": "1.0.0",
+  "description": "Wrapper for ffmpeg.",
   "main": "index.js",
-  "scripts": {
-    "install": "node install",
-    "test": "exit"
-  },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nodef/extra-ffmpeg.git"
+    "url": "git+https://github.com/baffo/ffmpeg-wrapper.git"
   },
   "keywords": [
-    "extra",
-    "ffmpeg",
-    "decode",
-    "encode",
-    "transcode",
-    "mux",
-    "demux",
-    "stream",
-    "filter",
-    "play",
-    "media",
-    "machine",
-    "multimedia",
-    "framework"
+    "wrapper",
+    "ffmpeg"
   ],
-  "author": "wolfram77@gmail.com",
+  "author": "primoz.bevk@gmail.com",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/nodef/extra-ffmpeg/issues"
-  },
-  "homepage": "https://github.com/nodef/extra-ffmpeg#readme"
+  "homepage": "https://github.com/baffo/ffmpeg-wrapper"
 }

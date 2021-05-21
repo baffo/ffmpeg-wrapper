@@ -1,5 +1,6 @@
+Fork of https://github.com/nodef/extra-ffmpeg extra-ffmpeg library, with removed install.js procedure (assumes you already have ffmpeg binaries installed on system)
+
 Decode, encode, transcode, mux, demux, stream, filter, and play media through machine (via ["ffmpeg"]).
-> Uses [setup-ffmpeg] to install, if absent.
 
 ```javascript
 const ffmpeg = require('extra-ffmpeg');
